@@ -8,6 +8,7 @@ Workshops and Conferences:
 Lectures:
 
 - https://quic.edm.uhasselt.be/files/CN_QUIC_RobinMarx_1920.pdf
+- http://wpage.unina.it/spromano/SharedDocs/AT_L21_QUIC.pdf
 
 Video Lectures:
 
